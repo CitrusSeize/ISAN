@@ -1,7 +1,7 @@
 # SINA (ISAN)
 **Système Intégré pour Navigation Autonome (Integrated System for Autonomous Navigation)** in [STARBASE](https://www.starbasegame.com/)
 
-En développement par le Collectif, SINA utilise les émetteurs des stations du jeu comme points de référence, pour pouvoir calculer votre position relative. [This is the private home of that project.]
+En développement par le Collectif, SINA utilise les émetteurs des stations du jeu comme points de référence, pour pouvoir calculer votre position relative. Ceci est le foyer de ce projet.
 
 ## Quoi de neuf en V2?
 
