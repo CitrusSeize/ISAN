@@ -34,7 +34,7 @@ Travaillez à votre rythme, et quand vous être satisfait du fonctionnement de v
 
 ## Contribuer à l'implémentation d'une idée existante (avec une publication)
 
-Check the comments, if there's one that contains "WIP" and a link to a fork, work has already started. 
+Si il y a une publication dont le titre contient "WIP" et un lien vers une fork dans les commentaires, le travail a déjà été commencé.
 
 If there's no "WIP" comment, follow the instructions above as if you have just created the issue yourself and begin work in your own fork.
 
