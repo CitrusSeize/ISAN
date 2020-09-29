@@ -17,7 +17,7 @@ Quelques exemples de SINAv2:
 Vous pouvez contribuer à ces deux parties, cependant les méthodes diffèrent un peu:
  - [Contribuer un nouvel Addon ou une idée d'Addon](#Contribuer-un-nouvel-Addon-ou-une-idée-d'Addon)
  - [Contribuer à l'implémentation d'une idée existante (avec une publication)](#Contribuer-à-l'implémentation-d'une-idée-existante-(avec-une-publication))
- - [Il y a déjà une repo en cours, mais je veux faire ma propre version](#There's-already-an-existing-WIP-repo,-but-I-want-to-make-my-own-version.)
+ - [Il y a déjà une repo en cours, mais je veux faire ma propre version](#Il-y-a-déjà-une-repo-en-cours,-mais-je-veux-faire-ma-propre-version)
  - [Contribuer au coeur](#Contributing-to-The-Core)
  - [Contribuer en français](#Contribuer-en-français)
  - [Signaler un bug](#Reporting-bugs)
@@ -34,19 +34,21 @@ Travaillez à votre rythme, et quand vous être satisfait du fonctionnement de v
 
 ## Contribuer à l'implémentation d'une idée existante (avec une publication)
 
-Si il y a une publication dont le titre contient "WIP" et un lien vers une fork dans les commentaires, le travail a déjà été commencé.
+Si il a un commentaire qui contient le terme "WIP" et un lien vers une fork, le travail a déjà été commencé. 
 
-If there's no "WIP" comment, follow the instructions above as if you have just created the issue yourself and begin work in your own fork.
+Si il n'y a pas de commentaire "WIP", suivez les instructions pour créer vous même une nouvelle publication et commencez le travail dans votre propre fork.
 
-If there is, follow the link to the branch & contact the people working on it there, by convention, on the `dev-addon-<your addon name>`, there should be a README.md in `Development/Addon Modules/<your addon name>` that contains the contact information for the lead contributor(s).
+Dans le cas où il existe déjà une branche, contactez les personnes travaillant dessus. Par convention, il devrait un avoir un README.md contenant les informations de contacte des contributeurs principaux dans `Development/Addon Modules/<nom de votre addon>`, qui se trouve sur le `dev-addon-<nom de votre addon>`.
 
-## There's already an existing WIP repo, but I want to make my own version.
+## Il y a déjà une repo en cours, mais je veux faire ma propre version
 
-**DON'T JUST OPEN A NEW ADDON ISSUE WITH A DIFFERENT NAME**
+**N'OUVREZ PAS UNE NOUVELLE PUBLICATION POUR UN ADDON DÉJÀ EXISTANT SOUS UN AUTRE NOM**
 
 Please at least try to work with the existing team. However, if there are conflicting views on how the project should proceed, contact one of the people listed below to resolve the conflict:
  - Solon (Solon#4472 on discord)
  - Azurethi (Azurethi#0789 on discord)
+ 
+ Merci d'essayer de travailler avec l'équipe déjà existante. Cependant, en cas de conflit par rapport à l'évolution du projet, merci de contacter l'une des personnes suivante pour résoudre le conflit (**attention, ces personnes sont anglophones**, pour un contact français, merci de se référer à la section [Contribuer en français](#Contribuer-en-français)):
 
 ## Contributing to The Core
 
