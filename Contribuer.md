@@ -50,11 +50,11 @@ Please at least try to work with the existing team. However, if there are confli
  
  Merci d'essayer de travailler avec l'équipe déjà existante. Cependant, en cas de conflit par rapport à l'évolution du projet, merci de contacter l'une des personnes suivante pour résoudre le conflit (**attention, ces personnes sont anglophones**, pour un contact français, merci de se référer à la section [Contribuer en français](#Contribuer-en-français)):
 
-## Contributing to The Core
+## Contribuer au coeur
 
-If you have some ideas, feel free to add them as issues titled "Core improvement:", followed by a brief explanatory title & further explanation in the issue comments. 
+Si vous avez des idées pour améliorer le coeur, merci de créer une publication titrée "Amélioration coeur" suivi d'une bref explication de votre idée, et expliquez la plus en détail dans les commentaires de la publication.
 
-If you feel that have exceptionally important improvement ideas (something that will greatly improve speed, reduce chip count or improve accuracy), or if you would like to contribute to the implementation and further development of the core, please contact Solon (Solon#4472 on discord), who can be easily found in the Collective discord sever.
+Si vous pensez que vos idées pourraient contribuer grandement à l'amélioration du coeur (quelque chose qui améliorera beaucoup la vitesse d'exécution, réduira le nombre de puces, ou qui améliorera la précision), ou si vous voulez contribuer à l'implémentation et au développement du coeur, merci de contacter Solon (Solon#4472 sur discord, anglophone), qui peut être contacté facilement sur le serveur DIscord du Collectif.
 
 ## Contribuer en français
 
