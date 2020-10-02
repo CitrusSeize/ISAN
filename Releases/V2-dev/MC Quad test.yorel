@@ -1,27 +1,27 @@
-//Name:             ISANv2_dev Quad MC development test
-//Current Version:      V2.4b
+//Nom:             ISANv2_dev Quad MC development test
+//Version:      V2.4b
 //Credit:               Azurethi, Lumi Virtual, Recatek
 
-// How to set up:
-//  Each section below separated by the "----+----|" pattern
-//   is code for an individual yolol chip.
+// Installation:
+//  Chaque section séparée par "----+----|"
+//   est un bloc de code pour une puce YOLOL.
 //
-// 1 Set up four receivers as before with ISANv1 quad
+// 1 Installer 4 quatres récepteurs avec SINAv1 quad
 //
-// 2 Simply copy & paste each section into chips on your ship.
+// 2 Faire un copier/coller de chaque section dans des puces YOLOL
 //
-// 3 Add each global field to memory chips (with the exception of PosV2 & setup)
-//   When reading the vars, square brackets ([]) denote a set of options
-//   Bars (|) mean "or" and dashes (-) give ranges. For example :
-//   :[A|B][1-3] would mean :A1, :A2, :A3, :B1, :B2, :B3
+// 3 Ajouter chaque variable globales dans des puces de mémoire (à l'exception de PosV2 et setup)
+//   Les crochets ([]) signifient que les variables concernées ont une série de valeurs possibles
+//   Une barre (|) signifie "ou", et un trait d'union (-) donne l'intervalle de valeurs. Par exemple:
+//   :[A|B][1-3] signifie :A1, :A2, :A3, :B1, :B2, :B3
 //
-// 4 Set up devices:
-//     - A display connected to the :PosV2 field
-//     - A button connected to the :setup field
+// 4 Installer les appareils suivants:
+//     - Un écran connecté à la variable globale :Pos2V2
+//     - Un bouton connecté à la variable globale :setup
 //
-// 5 Remember that this is a dev version.
+// 5 Ceci est une version dev
 
-//Globals:
+//Variables globales:
 //  :setup          - Setup script halt ctrl (Set==1 to start system)
 //  :M[1-4]         - Message filter for transmitter [1-4]
 //  :R[1-4]         - Signal Strength of transmitter [1-4]
