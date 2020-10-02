@@ -18,9 +18,9 @@ Vous pouvez contribuer à ces deux parties, cependant les méthodes diffèrent u
  - [Contribuer un nouvel Addon ou une idée d'Addon](#Contribuer-un-nouvel-Addon-ou-une-idée-d'Addon)
  - [Contribuer à l'implémentation d'une idée existante (avec une publication)](#Contribuer-à-l'implémentation-d'une-idée-existante-(avec-une-publication))
  - [Il y a déjà une repo en cours, mais je veux faire ma propre version](#Il-y-a-déjà-une-repo-en-cours,-mais-je-veux-faire-ma-propre-version)
- - [Contribuer au coeur](#Contributing-to-The-Core)
+ - [Contribuer au coeur](#Contribuer-au-coeur)
  - [Contribuer en français](#Contribuer-en-français)
- - [Signaler un bug](#Reporting-bugs)
+ - [Signaler un bug](#Signaler-un-bug)
 
 ## Contribuer un nouvel Addon ou une idée d'Addon
 
@@ -44,15 +44,13 @@ Dans le cas où il existe déjà une branche, contactez les personnes travaillan
 
 **N'OUVREZ PAS UNE NOUVELLE PUBLICATION POUR UN ADDON DÉJÀ EXISTANT SOUS UN AUTRE NOM**
 
-Please at least try to work with the existing team. However, if there are conflicting views on how the project should proceed, contact one of the people listed below to resolve the conflict:
- - Solon (Solon#4472 on discord)
- - Azurethi (Azurethi#0789 on discord)
- 
- Merci d'essayer de travailler avec l'équipe déjà existante. Cependant, en cas de conflit par rapport à l'évolution du projet, merci de contacter l'une des personnes suivante pour résoudre le conflit (**attention, ces personnes sont anglophones**, pour un contact français, merci de se référer à la section [Contribuer en français](#Contribuer-en-français)):
+Merci d'essayer de travailler avec l'équipe déjà existante. Cependant, en cas de conflit par rapport à l'évolution du projet, merci de contacter l'une des personnes suivante pour résoudre le conflit (**attention, ces personnes sont anglophones**, pour un contact français, merci de se référer à la section [Contribuer en français](#Contribuer-en-français)):
+ - Solon (Solon#4472 sur discord)
+ - Azurethi (Azurethi#0789 sur discord)
 
 ## Contribuer au coeur
 
-Si vous avez des idées pour améliorer le coeur, merci de créer une publication titrée "Amélioration coeur" suivi d'une bref explication de votre idée, et expliquez la plus en détail dans les commentaires de la publication.
+Si vous avez des idées pour améliorer le coeur, merci de créer une publication titrée "Amélioration coeur" suivi d'un titre descriptif, et expliquez votre amélioration plus en détail dans les commentaires de la publication.
 
 Si vous pensez que vos idées pourraient contribuer grandement à l'amélioration du coeur (quelque chose qui améliorera beaucoup la vitesse d'exécution, réduira le nombre de puces, ou qui améliorera la précision), ou si vous voulez contribuer à l'implémentation et au développement du coeur, merci de contacter Solon (Solon#4472 sur discord, anglophone), qui peut être contacté facilement sur le serveur DIscord du Collectif.
 
@@ -63,10 +61,10 @@ L'équipe en charge du développement de SINA est entièrement anglophone. A ce 
 **Merci de veiller à ce que votre travail reste clair et compréhensible par tous**, en utilisant un niveau de français correct, clair, succint et facile à traduire, pour un logiciel (Google Traduction, Linguee, DeepL,...) ou un débutant dans l'apprantissage du français.
 Contactez [CitrusSeize](https://github.com/1Solon "LemonGrab#3728 sur Discord") pour la traduction en anglais de votre projet si necessaire. Merci encore une fois de rester résonnable sur la longueur de vos textes. Restez égalemment à disposition au cas où des précisions seraient necessaire pour assurer la meilleure qualité de traduction possible.
 
-## Reporting bugs
+## Signaler un bug
 
-Open an issue titled "BUG:" followed by a descriptive title. Then please provide as much information as possible on the nature of the bug & any way you have found to reproduce it.
+Ouvrez une publication titrée "BUG:" suivi d'un titre descriptif. Merci d'inclure un maximum d'informations sur la nature du bug ainsi que les manières de le reproduire.
 
-Things that are not (always) bugs:
- - Signal loss: Unless you're definitely within range.
- - System failure after accidental or forced rapid disassembly
+Les choses qui ne sont pas (toujours) des bugs:
+ - Perte de signal: sauf si vous êtes bien dans la zone d'émission de SINA
+ - Problème du système après un déassemblage rapide non plannifié
