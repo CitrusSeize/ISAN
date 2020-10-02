@@ -18,17 +18,17 @@ La première version de SINA ne permet l'utilisation que de quatres émetteurs p
     - [V1](Releases/V1)
     - [V2-dev](Releases/V2-dev)
  - Comment contribuer
-    - [Contributing.md](Contributing.md)
+    - [Contribuer.md](Contribuer.md)
 
 ## Credits
 
 | Sous-programme | Contribution |
 |-|-|
-|[Solon](https://github.com/1Solon "Solon#4472 on Discord")|Manager de projet
-|[Azurethi](https://github.com/Azurethi "Azurethi#0789 on Discord")|SINA V2 math & code, manager de la repo ‘Le gars de la V2’
-|[Lumi](https://github.com/Lumi-Virtual "Lumi Virtual#9704 on Discord")|Développement de SINA V1 ‘ALchimiste de SINA’
-|[Recatek](https://github.com/Recatek "Recatek#1707 on Discord")|Code minification, Protocole Lighthouse
-|[Strikeeaglechase](# "Strikeeaglechase#0001 on discord")|Développement de offsets et Autopilot
+|[Solon](https://github.com/1Solon "Solon#4472 sur Discord")|Manager de projet
+|[Azurethi](https://github.com/Azurethi "Azurethi#0789 sur Discord")|SINA V2 math & code, manager de la repo ‘Le gars de la V2’
+|[Lumi](https://github.com/Lumi-Virtual "Lumi Virtual#9704 sur Discord")|Développement de SINA V1 ‘ALchimiste de SINA’
+|[Recatek](https://github.com/Recatek "Recatek#1707 sur Discord")|Code minification, Protocole Lighthouse
+|[Strikeeaglechase](# "Strikeeaglechase#0001 sur discord")|Développement de offsets et Autopilot
 |MuNk|Consultation code
 |Nordwolf|Calculs et mesures du système de coordonnées, Dev de SINA V0
 |Battle_Wrath|Idées de design variées et aide générale|
@@ -36,6 +36,6 @@ La première version de SINA ne permet l'utilisation que de quatres émetteurs p
 |Zaff|Consultation pour la sécurité et l'utilisabilité, Documentation|
 |Meboy100|Le rubber duck|
 
-*survoler pour les noms discord, clique pour githubs*
+*survoler pour les noms discord, clique pour githubs, toutes les personnes présentées ici sont anglophones*
 
 
