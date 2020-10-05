@@ -22,18 +22,18 @@
 // 5 Ceci est une version dev
 
 //Variables globales:
-//  :setup          - Setup script halt ctrl (Set==1 to start system)
-//  :M[1-4]         - Message filter for transmitter [1-4]
-//  :R[1-4]         - Signal Strength of transmitter [1-4]
-//  :[X|Y|Z][1-4]   - Position of transmitter [1-4]
+//  :setup          - Setup script halt ctrl (Set==1 to start system) **A PRECISER**
+//  :M[1-4]         - Message filter for transmitter [1-4] **A PRECISER**
+//  :R[1-4]         - Force du signal de l'émetteur [1-4]
+//  :[X|Y|Z][1-4]   - Position de l'émetteur [1-4]
 //
-//  :rst=1          - Inversion engine halt ctrl (handled by setup)
-//  :[X|Y|Z][A-D]   - Axis scale constants
-//  :[X|Y|Z]E       - Axis offset constants
+//  :rst=1          - Inversion engine halt ctrl (handled by setup) **A PRECISER**
+//  :[X|Y|Z][A-D]   - Axis scale constants **A PRECISER**
+//  :[X|Y|Z]E       - Axis offset constants **A PRECISER**
 //
-//  :[X|Y|Z]        - The position of the core
+//  :[X|Y|Z]        - La position du coeur
 //
-//  :PosV2          - Text display output field
+//  :PosV2          - Variable de sortie de l'écran
 
 ----+----|----+----|----+----|----+----|----+----|----+----|----+----|
 m="station_" goto 1+:setup
