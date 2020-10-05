@@ -1,5 +1,5 @@
-# ISAN V2-dev
+# SINA V2-dev
 
-This is a dev release, simply to showcase the math main elements of the core system operating in game and facilitate further development and testing.
+Ceci est une version dev, simplement faite pour montrer les éléments mathématiques du système coeur en jeu, et pour faciliter le développement et les tests dans le futur.
 
-See the yolol release file here for the code and setup instructions.
+Voir la parution yolol pour obtenir le code et les instructions d'installation.
