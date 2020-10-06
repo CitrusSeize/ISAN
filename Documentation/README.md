@@ -1,21 +1,20 @@
-# ISAN DOCS
+# DOCS SINA
 
-Here lies the ISAN documentation. Read the Version descriptors & Core module parts below, then venture into Version Overviews. As of writing, "V2 Half-Stack Quad MC [WIP]" has the most comprehensive overview diagram.
+La documentation pour SINA se trouve ici. Lisez la notice d'indentification des versions et la list des modules coeurs ci-dessous, puis aventurez-vous dans l'aperçu des versions. À l'heure de l'écriture de ce document, "V2 Half-Stack Quad MC [WIP]" a le diagramme d'aperçu le plus complet.
 
+## Identification de version
 
-## Version Identifiers
-
-| Version | Main update |
+| Version | MàJ principale |
 |-|-|
-|V1| Original Public version of ISAN|
-|V2| Core Math Update (the current WIP)|
-|V3| Lighthouse update|
+|V1| Version publique originale de SINA|
+|V2|  MàJ des méthodes de calcul du coeur (en développement)|
+|V3| MàJ "Lighthouse"|
 
-## V2/3 Core modules
+## Modules coeurs pour V2/3
 
-| Name | Purpose | version
+| Nom | Utilité | Version
 -|-|-
-Lighthouse | ***[Off Ship]*** Smart Transmitting node, Makes it's position public such that it's transmitter can be used as a fixed reference point for the ISAN system |V3
+Lighthouse | ***[Hors des vaisseaux]*** Smart Transmitting node, Makes it's position public such that it's transmitter can be used as a fixed reference point for the ISAN system |V3
 Scanner | YOLOL program to find 4 Reference points for use by the rest of the positioning system| V2, V3
 Decoder | Decodes the messages of lighthouses selected by the scanner | V3
 Datastore | Stores coord information on Dev-Transmitters, made availible to the Inversion engine on selection by the Scanner | V2, V3
